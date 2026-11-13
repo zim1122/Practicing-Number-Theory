@@ -1,0 +1,15 @@
+# Ignored web/node project files from parent workspace
+.vercel/
+client/
+server/
+vercel.json
+workshop_ref/
+
+# Python cache & artifacts
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+.env.*
+node_modules/
